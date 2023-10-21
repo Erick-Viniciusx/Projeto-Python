@@ -1,0 +1,1 @@
+Esse projeto python foi desenvolvido com o intuito de automatizar mensagens de parabéns em aniversários de certas pessoas 
